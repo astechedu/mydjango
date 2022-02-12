@@ -28,9 +28,9 @@ Installing the virtual environment software
 
     (my_django_environment) ubuntu@ubuntu:~$
 
-  deactivate — Exit out of the current Python virtual environment
-  workon — List available virtual environments
-  workon name_of_environment — Activate the specified Python virtual environment
+  deactivate — Exit out of the current Python virtual environment <br>
+  workon — List available virtual environments <br>
+  workon name_of_environment — Activate the specified Python virtual environment <br>
   rmvirtualenv name_of_environment — Remove the specified environment.
 
 
