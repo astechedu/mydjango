@@ -93,7 +93,7 @@ Let’s look at what startproject created:
 	        asgi.py
 	        wsgi.py
 
-<img src="https://pythonprogramming.net/static/images/django/django-it-worked.png" width="400">
+<img src="https://learndjango.com/static/images/django31_welcome.png" width="400">
 
 
 
