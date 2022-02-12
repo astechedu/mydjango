@@ -1,4 +1,6 @@
-# Using Django inside a Python virtual environment
+<div style="background: blue;">
+  <h1> Using Django inside a Python virtual environment</h1>
+</div>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IRLqukJCFc6FR9kERu_1npoxO9XjVA8orNHsfTTZih7x5V05CIRiTeLpGBKEmL_ezGw&usqp=CAU">
 
